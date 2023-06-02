@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ItemFilter xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
-  <name>Hammer Throw Paladin Endgame (Maxroll)</name>
+  <name>Nova Hammerdin Loot Filter</name>
   <filterIcon>5</filterIcon>
   <filterIconColor>11</filterIconColor>
   <description>0.9</description>
@@ -44,7 +44,6 @@
             <int>199</int>
             <int>200</int>
             <int>212</int>
-            <int>276</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>0</comparsionValue>
