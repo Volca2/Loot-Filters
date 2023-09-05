@@ -3,7 +3,7 @@
   <filterIcon>7</filterIcon>
   <filterIconColor>4</filterIconColor>
   <description>0.9</description>
-  <lastModifiedInVersion>0.9.1.2</lastModifiedInVersion>
+  <lastModifiedInVersion>0.9.2</lastModifiedInVersion>
   <lootFilterVersion>2</lootFilterVersion>
   <rules>
     <Rule>
@@ -884,6 +884,40 @@
       <maxLvl>101</maxLvl>
       <emphasized>true</emphasized>
       <nameOverride>Wanted Relics (STRICT)</nameOverride>
+    </Rule>
+    <Rule>
+      <type>SHOW</type>
+      <conditions>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>676</int>
+            <int>677</int>
+            <int>678</int>
+            <int>679</int>
+            <int>673</int>
+            <int>674</int>
+            <int>675</int>
+            <int>710</int>
+            <int>711</int>
+            <int>712</int>
+            <int>713</int>
+            <int>714</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>0</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>false</emphasized>
+      <nameOverride>Experimental Affixes</nameOverride>
     </Rule>
     <Rule>
       <type>HIGHLIGHT</type>
