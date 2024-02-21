@@ -40,7 +40,7 @@
         </Condition>
       </conditions>
       <color>0</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -637,7 +637,7 @@
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
-      <emphasized>false</emphasized>
+      <emphasized>true</emphasized>
       <nameOverride />
     </Rule>
     <Rule>
