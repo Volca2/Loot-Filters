@@ -143,6 +143,8 @@
             <int>429</int>
             <int>86</int>
             <int>1</int>
+            <int>93</int>
+            <int>99</int>
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
           <comparsionValue>4</comparsionValue>
