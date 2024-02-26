@@ -68,6 +68,8 @@
             <int>308</int>
             <int>268</int>
             <int>754</int>
+            <int>265</int>
+            <int>285</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>0</comparsionValue>
@@ -107,6 +109,8 @@
             <int>268</int>
             <int>261</int>
             <int>754</int>
+            <int>285</int>
+            <int>265</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>0</comparsionValue>
