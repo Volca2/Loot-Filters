@@ -40,6 +40,7 @@
             <int>197</int>
             <int>128</int>
             <int>276</int>
+            <int>110</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>0</comparsionValue>
@@ -67,6 +68,9 @@
             <int>276</int>
             <int>128</int>
             <int>197</int>
+            <int>112</int>
+            <int>110</int>
+            <int>113</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>0</comparsionValue>
