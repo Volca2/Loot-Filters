@@ -64,6 +64,9 @@
           <affixes>
             <int>105</int>
             <int>107</int>
+            <int>276</int>
+            <int>128</int>
+            <int>197</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>0</comparsionValue>
