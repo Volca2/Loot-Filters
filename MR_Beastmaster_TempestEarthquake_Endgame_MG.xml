@@ -1990,6 +1990,8 @@
           <affixes>
             <int>665</int>
             <int>661</int>
+            <int>629</int>
+            <int>332</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>0</comparsionValue>
